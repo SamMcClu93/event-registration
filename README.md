@@ -16,9 +16,11 @@ public class Event {
     // Get and set Event Name
     public String getName() {return name;}
     public void setName(String name) {this.name = name;}
+    
     // Get and set Event Location
     public String getLocation() {return location;}
     public void setLocation(String location) {this.location = location;}
+    
     //Get and set Event Date
     public String getDate() {return date;}
     public void setDate(String date) {this.date = date;}
