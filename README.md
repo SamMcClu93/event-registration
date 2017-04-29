@@ -3,7 +3,7 @@
 package event.registration;
 
 
-//  Below is the tmeplate for the Event object
+//  Below is the template for the Event object
 
 
 public class Event {
